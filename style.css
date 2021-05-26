@@ -10,5 +10,12 @@ main {
 .logo {
     width: 272px;
     display: block;
-    margin: 25% auto;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+#search{
+    width: 40%;
+    display: block;
+    margin: 25px auto;
 }
