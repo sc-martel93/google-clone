@@ -33,6 +33,15 @@ a:hover {
     color: rgba(0,0,0,0.8);
 }
 
+#grid {
+    filter: contrast(0);
+    margin-left: 5px;
+}
+
+#grid:hover {
+    filter: contrast(0.3);
+}
+
 header img {
     margin-right: 20px;
     width: 40px;
